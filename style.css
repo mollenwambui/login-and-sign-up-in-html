@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+   font-weight: sans-serif;
+   color:whitesmoke;
+   background-color:#344a72;
+   margin-right: 20%;
+   padding: 50%;
+}
+
+.loginbox{
+    width:480px;
+    height: 500px;
+    background: whitesmoke;
+    color: rgb(2, 1, 10);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    margin-left: 20%;
+    border: 3px solid gray;
+    border-radius: 7px;
+    padding: 6%;
+    font-size: 20px;
+    margin-left: 4%;
+    margin-bottom:50%;
+}
+
+#style{
+    text-align: center;
+}
