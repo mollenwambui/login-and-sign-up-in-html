@@ -10,7 +10,7 @@ body{
 .loginbox{
     width:480px;
     height: 500px;
-    background: whitesmoke;
+    background-color: #aac5f2;
     color: rgb(2, 1, 10);
     top: 50%;
     left: 50%;
@@ -31,4 +31,8 @@ body{
 }
 #stylee{
     color: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4px;
 }
